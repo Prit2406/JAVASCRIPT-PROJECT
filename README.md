@@ -1,1 +1,1 @@
-# JAVASCRIPT-PROJECT
+# Rock Paper Scissors
